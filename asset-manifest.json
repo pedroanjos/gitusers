@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gitusers/static/css/main.44781e2a.css",
+    "main.js": "/gitusers/static/js/main.8a8f23ab.js",
+    "index.html": "/gitusers/index.html",
+    "main.44781e2a.css.map": "/gitusers/static/css/main.44781e2a.css.map",
+    "main.8a8f23ab.js.map": "/gitusers/static/js/main.8a8f23ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44781e2a.css",
+    "static/js/main.8a8f23ab.js"
+  ]
+}
