@@ -12,3 +12,5 @@ Para melhorar o carregamento, foi implementado um sistema de paginação dos rep
 Caso o usuário não seja encontrado, uma mensagem de erro com instruções é mostrada;
 
 Caso o usuário digite uma URL inválida, uma mensagem de erro com instruções é mostrada;
+
+O aplicativo é responsivo, então é possível ser utilizado em qualquer plataforma, mobile ou desktop;
